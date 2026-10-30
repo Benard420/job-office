@@ -1,0 +1,11 @@
+{
+  "name": "job-office",
+  "version": "0.1.1",
+  "description": "A personal job search office for anyone, anywhere: finds roles that fit, tailors CVs and cover letters, fills and submits applications in the browser, drafts and sends outreach, tracks every application, coaches for interviews, and guides the first months in the new role.",
+  "author": {
+    "name": "Sandra Benard (Ice)"
+  },
+  "homepage": "https://sandrabenard.com",
+  "license": "MIT",
+  "keywords": ["jobs", "job search", "career", "cover letter", "cv", "resume", "applications", "interview", "outreach", "tracker"]
+}

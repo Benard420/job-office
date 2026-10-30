@@ -1,0 +1,13 @@
+{
+  "name": "YOUR FULL NAME",
+  "headline": "YOUR ROLE TITLE",
+  "contact": ["you@example.com", "+000 000 000 0000"],
+  "font": "Calibri",
+  "name_size": 34,
+  "body_size": 22,
+  "accent": "1F3A5F",
+  "muted": "555555",
+  "greeting": "Dear Hiring Manager,",
+  "sign_off": "Sincerely,",
+  "page": { "width": 12240, "height": 15840, "top": 1100, "bottom": 1000, "left": 1300, "right": 1300 }
+}

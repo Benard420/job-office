@@ -1,0 +1,16 @@
+{
+  "name": "job-office",
+  "owner": { "name": "Sandra Benard (Ice)", "url": "https://sandrabenard.com" },
+  "metadata": { "description": "Job Office: a personal job search office inside Claude.", "version": "0.1.1" },
+  "plugins": [
+    {
+      "name": "job-office",
+      "source": "./plugins/job-office",
+      "description": "Finds roles that fit, tailors CVs and cover letters, fills and submits applications in your browser, drafts outreach, tracks every application, coaches for interviews, and guides your first months in the new role.",
+      "version": "0.1.1",
+      "author": { "name": "Sandra Benard (Ice)" },
+      "license": "MIT",
+      "keywords": ["jobs", "career", "cover letter", "cv", "applications", "interview"]
+    }
+  ]
+}
